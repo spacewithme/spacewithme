@@ -1,4 +1,4 @@
-### Hi there 
+
 <h1 align="center">Hi 👋, I'm Rohit Shrivastava</h1>
 <h3 align="center">I am a 3rd Year Student in Computer Science at Siliguri Institute of Technology</h3>
 
