@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Shrivastava</h1>
-<h3 align="center">I am a Final Year Student in Computer Science at Siliguri Institute of Technology</h3>
+<h3 align="center">I am B.Tech Graduate in Computer Science at Siliguri Institute of Technology</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spacewithme&label=Profile%20views&color=0e75b6&style=flat" alt="spacewithme" /> </p>
 
-- 📫 How to reach me **spacewithmee@gmail.com**
+- 📫 How to reach me **rohitshrivastava610@gmail.com**
 
 - ⚡ Fun fact **I am in Spain but without P xD**
 
