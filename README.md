@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Shrivastava</h1>
 <h3 align="center">
-Computer Science Engineering Graduate | Aspiring Backend / Software Engineer
+Java Developer| DevOps Engineer | Aspiring Backend / Software Engineer
 </h3>
 
 <img
@@ -45,7 +45,7 @@ Computer Science Engineering Graduate | Aspiring Backend / Software Engineer
 
 ---
 
-### 📚 Currently Learning
+### 📚 Currently Learning (⬅️ Newly Added)
 
 - 🐳 **Docker** – containerization & image-based deployments  
 - ☸️ **Kubernetes** – basic orchestration concepts & service management  
@@ -72,42 +72,14 @@ Computer Science Engineering Graduate | Aspiring Backend / Software Engineer
 
 - **Crop Recommendation System (Machine Learning)**  
   ML-based system that recommends suitable crops using environmental parameters.
-
----
-
-### 📊 GitHub Activity
-
-<!-- GitHub Stats -->
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=spacewithme&show_icons=true&theme=default&hide_border=true"
-    alt="GitHub stats"
-  />
-</p>
-
-<!-- GitHub Streak -->
-<p align="left">
-  <img
-    src="https://streak-stats.demolab.com?user=spacewithme&theme=default&hide_border=true"
-    alt="GitHub streak"
-  />
-</p>
+  
+*(Detailed READMEs available inside respective repositories)*
 
 ---
 
 ### 📫 Connect With Me
 
 - 📧 Email: **rohitshrivastava610@gmail.com**
-- ▶️ YouTube:
-<a href="https://www.youtube.com/c/bubbleshot" target="_blank">
-  <img
-    align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-    alt="YouTube"
-    height="30"
-    width="40"
-  />
-</a>
 
 ---
 
