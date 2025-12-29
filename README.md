@@ -8,7 +8,13 @@
 
 - 📫 How to reach me **rohitshrivastava610@gmail.com**
 
-- ⚡ Fun fact **I am in Spain but without P xD**
+- ⚡**Code. Learn. Improve. Repeat.**
+- 🔭 I’m currently working on Spring Boot
+- 🤺 Core Skills :
+- Java, C++, OOP, Data Structures
+- MySQL, SQL, MongoDB
+- Spring Boot (basics)
+- Git, Linux
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,7 +30,6 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
