@@ -1,40 +1,122 @@
-
 <h1 align="center">Hi 👋, I'm Rohit Shrivastava</h1>
-<h3 align="center">I am a B.Tech Graduate in Computer Science at Siliguri Institute of Technology</h3>
+<h3 align="center">
+Computer Science Engineering Graduate | Aspiring Backend / Software Engineer
+</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243443302-M7BF80YPRD7S88YYDMKO/ef7a420440306ae74ef664f2df513851.gif?format=300w"></img>
+<img
+  align="right"
+  alt="coding"
+  width="380"
+  src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243443302-M7BF80YPRD7S88YYDMKO/ef7a420440306ae74ef664f2df513851.gif?format=300w"
+/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spacewithme&label=Profile%20views&color=0e75b6&style=flat" alt="spacewithme" /> </p>
-
-- 📫 How to reach me **rohitshrivastava610@gmail.com**
-
-- ⚡**Code. Learn. Improve. Repeat.**
-- 🔭 I’m currently working on Spring Boot
-- 🤺 Core Skills :
-- Java, C++, OOP, Data Structures
-- MySQL, SQL, MongoDB
-- Spring Boot (basics)
-- Git, Linux
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/bubbleshot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bubbleshot" height="30" width="40" /></a>
+  <img
+    src="https://komarev.com/ghpvc/?username=spacewithme&label=Profile%20views&color=0e75b6&style=flat"
+    alt="profile views"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
- 
-<!--
-**spacewithme/spacewithme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Graduate in Computer Science from **Siliguri Institute of Technology**
+- 💻 Interested in **Backend Development & Software Engineering**
+- 🔭 Currently working on **Spring Boot**
+- 🌱 Strengthening fundamentals in **Java, Databases, and System Design**
+- ⚡ **Code. Learn. Improve. Repeat.**
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Core Technical Skills
+
+**Programming & Concepts**
+- Java, C++
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+
+**Backend & Databases**
+- Spring Boot
+- MySQL, SQL, MongoDB
+
+**Tools & Platforms**
+- Git & GitHub
+- Linux
+
+---
+
+### 📌 What I Focus On
+
+- Writing **clean, readable, and maintainable code**
+- Understanding **backend flow and architecture**
+- Applying **core CS fundamentals** to real-world problems
+- Improving code quality through **refactoring and best practices**
+
+---
+
+### 🚀 Featured Work
+
+- **Online Food Ordering System (Java)**  
+  Backend system demonstrating OOP principles, role-based logic, and modular design.
+
+- **Crop Recommendation System (Machine Learning)**  
+  ML-based system that recommends suitable crops using environmental parameters.
+
+*(Detailed READMEs available inside respective repositories)*
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=spacewithme&show_icons=true&theme=default"
+    alt="github stats"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=spacewithme&theme=default"
+    alt="github streak"
+  />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: **rohitshrivastava610@gmail.com**
+- ▶️ YouTube:
+<a href="https://www.youtube.com/c/bubbleshot" target="_blank">
+  <img
+    align="center"
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
+    alt="YouTube"
+    height="30"
+    width="40"
+  />
+</a>
+
+---
+
+### 🧰 Languages and Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+---
+
+<p align="center">
+  <i>“Building reliable software, one project at a time.”</i>
+</p>
