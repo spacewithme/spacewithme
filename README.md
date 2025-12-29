@@ -24,7 +24,6 @@ Computer Science Engineering Graduate | Aspiring Backend / Software Engineer
 - 🎓 B.Tech Graduate in Computer Science from **Siliguri Institute of Technology**
 - 💻 Interested in **Backend Development & Software Engineering**
 - 🔭 Currently working on **Spring Boot**
-- 🌱 Strengthening fundamentals in **Java, Databases, and System Design**
 - ⚡ **Code. Learn. Improve. Repeat.**
 
 ---
@@ -37,7 +36,7 @@ Computer Science Engineering Graduate | Aspiring Backend / Software Engineer
 - Data Structures & Algorithms
 
 **Backend & Databases**
-- Spring Boot
+- Spring Boot (Basics)
 - MySQL, SQL, MongoDB
 
 **Tools & Platforms**
@@ -46,10 +45,21 @@ Computer Science Engineering Graduate | Aspiring Backend / Software Engineer
 
 ---
 
+### 📚 Currently Learning
+
+- 🐳 **Docker** – containerization & image-based deployments  
+- ☸️ **Kubernetes** – basic orchestration concepts & service management  
+- 📩 **Apache Kafka** – event-driven architecture fundamentals  
+- 🔁 **CI/CD Pipelines** – automated build, test, and deployment workflows  
+
+*(Focused on understanding real-world backend deployment and scalability)*
+
+---
+
 ### 📌 What I Focus On
 
 - Writing **clean, readable, and maintainable code**
-- Understanding **backend flow and architecture**
+- Understanding **backend flow and system architecture**
 - Applying **core CS fundamentals** to real-world problems
 - Improving code quality through **refactoring and best practices**
 
@@ -63,23 +73,23 @@ Computer Science Engineering Graduate | Aspiring Backend / Software Engineer
 - **Crop Recommendation System (Machine Learning)**  
   ML-based system that recommends suitable crops using environmental parameters.
 
-*(Detailed READMEs available inside respective repositories)*
-
 ---
 
 ### 📊 GitHub Activity
 
+<!-- GitHub Stats -->
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=spacewithme&show_icons=true&theme=default"
-    alt="github stats"
+    src="https://github-readme-stats.vercel.app/api?username=spacewithme&show_icons=true&theme=default&hide_border=true"
+    alt="GitHub stats"
   />
 </p>
 
+<!-- GitHub Streak -->
 <p align="left">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=spacewithme&theme=default"
-    alt="github streak"
+    src="https://streak-stats.demolab.com?user=spacewithme&theme=default&hide_border=true"
+    alt="GitHub streak"
   />
 </p>
 
@@ -109,6 +119,8 @@ Computer Science Engineering Graduate | Aspiring Backend / Software Engineer
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
