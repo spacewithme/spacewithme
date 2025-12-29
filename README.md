@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Rohit Shrivastava</h1>
-<h3 align="center">I am B.Tech Graduate in Computer Science at Siliguri Institute of Technology</h3>
+<h3 align="center">I am a B.Tech Graduate in Computer Science at Siliguri Institute of Technology</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif"></img>
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599243443302-M7BF80YPRD7S88YYDMKO/ef7a420440306ae74ef664f2df513851.gif?format=300w"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spacewithme&label=Profile%20views&color=0e75b6&style=flat" alt="spacewithme" /> </p>
 
